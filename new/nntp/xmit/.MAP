@@ -1,0 +1,12 @@
+F GET_TCP_.C;1                      	get_tcp_conn.c
+F GET_TCP_.H;1                      	get_tcp_conn.h
+F LLIST.C;1                         	llist.c
+F LLIST.H;1                         	llist.h
+F MAKEFILE.;1                       	Makefile
+F NNTPSEND.;1                       	nntpsend
+F NNTPXMIT.C;1                      	nntpxmit.c
+F NNTPXMIT.H;1                      	nntpxmit.h
+F README.;1                         	README
+F REMOTE.C;1                        	remote.c
+F RFC822.C;1                        	rfc822.c
+F SHLOCK.C;1                        	shlock.c

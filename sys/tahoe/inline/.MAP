@@ -1,0 +1,13 @@
+F INLINE.;1                         	inline
+F INLINE.H;1                        	inline.h
+F LANGPATS.C;1                      	langpats.c
+F LANGPATS.O;1                      	langpats.o
+F LIBCPATS.C;1                      	libcpats.c
+F LIBCPATS.O;1                      	libcpats.o
+F MACHDEP.C;1                       	machdep.c
+F MACHDEP.O;1                       	machdep.o
+F MACHPATS.C;1                      	machpats.c
+F MACHPATS.O;1                      	machpats.o
+F MAIN.C;1                          	main.c
+F MAIN.O;1                          	main.o
+F MAKEFILE.;1                       	Makefile

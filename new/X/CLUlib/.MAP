@@ -1,0 +1,14 @@
+F CLULIB.DOC;1                      	CLUlib.doc
+F CURSORS.EQU;1                     	cursors.equ
+D SUN                               	sun
+D VAX                               	vax
+F X.XFI;1                           	x.xfile
+F XDEFS.EQU;1                       	xdefs.equ
+F X_CONS.CLU;1                      	x_cons.clu
+F X_ERROR.CLU;1                     	x_error.clu
+F X_ERSTR.CLU;1                     	x_erstr.clu
+F X_GEOMET.CLU;1                    	x_geometry.clu
+F X_INPUT.CLU;1                     	x_input.clu
+F X_KEYMAP.CLU;1                    	x_keymap.clu
+F X_TCONS.CLU;1                     	x_tcons.clu
+F X_VLIST.SPC;1                     	x_vlist.spc

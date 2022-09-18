@@ -1,0 +1,14 @@
+F CHANGE.C;1                        	Change.c
+F ERROR.C;1                         	Error.c
+F GETBUTTO.C;1                      	GetButton.c
+F GLOBALS.C;1                       	globals.c
+F LOWERICO.C;1                      	LowerIconify.c
+F MAIN.C;1                          	main.c
+F MAKEFILE.;1                       	Makefile
+F MOVE.C;1                          	Move.c
+F STOREBOX.C;1                      	StoreBox.c
+F STORECUR.C;1                      	StoreCursors.c
+F STOREGRI.C;1                      	StoreGridBox.c
+F STOREZAP.C;1                      	StoreZap.c
+F XERROR.C;1                        	XError.c
+F XWM.H;1                           	xwm.h

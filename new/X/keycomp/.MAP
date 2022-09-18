@@ -1,0 +1,4 @@
+F KEYCOMP.C;1                       	keycomp.c
+F MAKEFILE.;1                       	Makefile
+F XKEYMAP.DEF;1                     	Xkeymap.default
+L XKEYMAP.H;1                       	Xkeymap.h	../Xlib/Xkeymap.h

@@ -1,0 +1,8 @@
+F BUTTONS.RAS;1                     	buttons.raster
+F EXTERN.H;1                        	extern.h
+F GLOBALS.C;1                       	globals.c
+F MAKEFILE.;1                       	Makefile
+F WM.CUR;1                          	wm.cursor
+F WM.H;1                            	wm.h
+F WMSUBS.C;1                        	wmsubs.c
+F XNWM.C;1                          	xnwm.c

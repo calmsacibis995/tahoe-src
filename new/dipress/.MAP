@@ -1,0 +1,12 @@
+D BIN                               	bin
+F CHANGES.;1                        	CHANGES
+D CONF                              	conf
+D DOC                               	doc
+D INCLUDE                           	include
+D LIB                               	lib
+F MAKEFILE.;1                       	Makefile
+D MAN                               	man
+F README.;1                         	README
+D SRC                               	src
+F TODO.;1                           	TODO
+D UCBLPR                            	ucblpr

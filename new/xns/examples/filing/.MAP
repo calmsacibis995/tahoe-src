@@ -1,0 +1,16 @@
+F AUTHENTI.CR;1                     	Authentication1.cr
+F BULKDATA.CR;1                     	BulkData1.cr
+F CLEARING.CR;1                     	Clearinghouse2.cr
+F CMDS.C;1                          	cmds.c
+F CMDTAB.C;1                        	cmdtab.c
+F DEBUG.C;1                         	debug.c
+F ERRMSG.C;1                        	errmsg.c
+F FILING4.CR;1                      	Filing4.cr
+F FILING5.CR;1                      	Filing5.cr
+F FTP_VAR.H;1                       	ftp_var.h
+F GLOB.C;1                          	glob.c
+F MAIN.C;1                          	main.c
+F MAKEFILE.;1                       	Makefile
+F SIMPLEAU.C;1                      	simpleauth.c
+F TIME2.CR;1                        	Time2.cr
+F XNFTP.C;1                         	xnftp.c

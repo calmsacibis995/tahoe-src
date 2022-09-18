@@ -1,0 +1,11 @@
+F CHANGES.;1                        	CHANGES
+D COMMON                            	common
+D DOC                               	doc
+D INEWS                             	inews
+F MAKEFILE.;1                       	Makefile
+F README.;1                         	README
+D RRN                               	rrn
+D SERVER                            	server
+D SUPPORT                           	support
+D XFER                              	xfer
+D XMIT                              	xmit

@@ -1,0 +1,14 @@
+F ALPHA.SEE;1                       	alpha.seek.c
+F BIB.C;1                           	bib.c
+F BIB.H;1                           	bib.h
+F BIBARGS.C;1                       	bibargs.c
+F INDEX.;1                          	INDEX
+F INVERT.C;1                        	invert.c
+F LISTREFS.C;1                      	listrefs.c
+F LOCATE.C;1                        	locate.c
+F LOOKUP.C;1                        	lookup.c
+F MAKEFILE.;1                       	Makefile
+F MAKEKEY.C;1                       	makekey.c
+F REFS.TES;1                        	refs.test
+F STREAMS.C;1                       	streams.c
+F STREAMS.H;1                       	streams.h

@@ -1,0 +1,12 @@
+F INPUT.CLU;1                       	input.clu
+F OUTPUT.CLU;1                      	output.clu
+F RUN_CTRL.000;1                    	run_ctrlsk.clu
+F RUN_CTRL.CLU;1                    	run_ctrlat.clu
+F RUN_INTE.CLU;1                    	run_interactive.clu
+F SAMPLE.TED;1                      	sample.ted_init
+F SCREEN.CLU;1                      	screen.clu
+F START_UP.CLU;1                    	start_up.clu
+F XTED.XFI;1                        	xted.xfile
+F XTED.XLO;1                        	xted.xload
+F _IMAGE.CLU;1                      	_image.clu
+F _UNHANDL.CLU;1                    	_unhandled_exception.clu

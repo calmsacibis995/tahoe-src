@@ -1,0 +1,22 @@
+F CY.C;1                            	cy.c
+F CYREG.H;1                         	cyreg.h
+F DR.C;1                            	dr.c
+F DRREG.H;1                         	drreg.h
+F HD.C;1                            	hd.c
+F HDC.H;1                           	hdc.h
+F HDREG.H;1                         	hdreg.h
+F IK.C;1                            	ik.c
+F IKREG.H;1                         	ikreg.h
+F MP.C;1                            	mp.c
+F MPREG.H;1                         	mpreg.h
+F PSPROTO.H;1                       	psproto.h
+F PSREG.H;1                         	psreg.h
+F SCOPE.H;1                         	scope.h
+L TAGS.;1                           	tags	../tahoe/tags
+F VBA.C;1                           	vba.c
+F VBAPARAM.H;1                      	vbaparam.h
+F VBAVAR.H;1                        	vbavar.h
+F VD.C;1                            	vd.c
+F VDREG.H;1                         	vdreg.h
+F VX.C;1                            	vx.c
+F VXREG.H;1                         	vxreg.h

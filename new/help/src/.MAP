@@ -1,0 +1,10 @@
+D CSHELL                            	cshell
+F EMACS.;1                          	emacs
+D F77                               	f77
+F GENERAL.;1                        	general
+F HARDWARE.;1                       	hardware
+F INDEX_HE.;1                       	index_help
+F INDEX_MA.;1                       	index_man
+F REMOTE.;1                         	remote
+F VI_PRACT.;1                       	vi_practice
+F WWB.;1                            	wwb

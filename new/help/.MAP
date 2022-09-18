@@ -1,0 +1,7 @@
+F HELP.1;1                          	help.1
+F HELP.C;1                          	help.c
+D MAINT                             	maint
+F MAKEFILE.;1                       	Makefile
+F README.;1                         	README
+D SRC                               	src
+F TMAC.AYD;1                        	tmac.ayday

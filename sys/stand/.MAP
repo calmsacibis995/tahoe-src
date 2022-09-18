@@ -1,0 +1,12 @@
+F CAT.C;1                           	cat.c
+F COPY.C;1                          	copy.c
+F DEV.C;1                           	dev.c
+F DOCOPY.C;1                        	docopy.c
+F GETFILE.C;1                       	getfile.c
+F GETS.C;1                          	gets.c
+F LS.C;1                            	ls.c
+F PRINTN.C;1                        	printn.c
+F SAERRNO.H;1                       	saerrno.h
+F SAIO.H;1                          	saio.h
+F SAIOCTL.H;1                       	saioctl.h
+F SYS.C;1                           	sys.c

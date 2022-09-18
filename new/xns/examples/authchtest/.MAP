@@ -1,0 +1,11 @@
+F BASICAUT.CR;1                     	BasicAuthentication.cr
+F CH1.CR;1                          	ch1.cr
+F CHLOOKUP.C;1                      	chlookup.c
+F CHTEST.C;1                        	chtest.c
+F CLEARING.CR;1                     	Clearinghouse.cr
+F CREDS.C;1                         	creds.c
+F GETDATA.C;1                       	getdata.c
+F GETXNSPA.C;1                      	getXNSpass.c
+F HASHPASS.C;1                      	hashpass.c
+F MAKEFILE.;1                       	Makefile
+F MAKEFILE.000;1                    	Makefile,v

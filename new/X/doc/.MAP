@@ -1,0 +1,9 @@
+L CLULIB.DOC;1                      	CLUlib.doc	../CLUlib/CLUlib.doc
+F CONTROL.DOC;1                     	Control.doc
+L DDX.DOC;1                         	ddX.doc	../X/ddX.doc
+D INSTALLA                          	installation
+F MAKEFILE.;1                       	Makefile
+D PAPER                             	Paper
+D USENIX                            	Usenix
+L X.DOC;1                           	X.doc	../X/X.doc
+D XLIB                              	Xlib

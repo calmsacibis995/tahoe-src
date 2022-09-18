@@ -1,0 +1,7 @@
+D CONF                              	conf
+D DIST                              	dist
+F ENET.4;1                          	enet.4
+D NET                               	net
+D SYS                               	sys
+D VAX                               	vax
+D VAXIF                             	vaxif

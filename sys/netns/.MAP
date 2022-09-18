@@ -1,0 +1,22 @@
+F IDP.H;1                           	idp.h
+F IDP_USRR.C;1                      	idp_usrreq.c
+F IDP_VAR.H;1                       	idp_var.h
+F NS.C;1                            	ns.c
+F NS.H;1                            	ns.h
+F NS_ERROR.C;1                      	ns_error.c
+F NS_ERROR.H;1                      	ns_error.h
+F NS_IF.H;1                         	ns_if.h
+F NS_INPUT.C;1                      	ns_input.c
+F NS_IP.C;1                         	ns_ip.c
+F NS_OUTPU.C;1                      	ns_output.c
+F NS_PCB.C;1                        	ns_pcb.c
+F NS_PCB.H;1                        	ns_pcb.h
+F NS_PROTO.C;1                      	ns_proto.c
+F SP.H;1                            	sp.h
+F SPIDP.H;1                         	spidp.h
+F SPP_DEBU.C;1                      	spp_debug.c
+F SPP_DEBU.H;1                      	spp_debug.h
+F SPP_TIME.H;1                      	spp_timer.h
+F SPP_USRR.C;1                      	spp_usrreq.c
+F SPP_VAR.H;1                       	spp_var.h
+L TAGS.;1                           	tags	../machine/tags

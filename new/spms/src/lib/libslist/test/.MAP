@@ -1,0 +1,14 @@
+F SLAPPEND.A;1                      	slappend.a
+F SLGET.A;1                         	slget.a
+F SLPOP.A;1                         	slpop.a
+F SLPREPEN.A;1                      	slprepend.a
+F SLPRINT.A;1                       	slprint.a
+F SLRM.A;1                          	slrm.a
+F SLSAPPEN.A;1                      	slsappend.a
+F SLSGET.A;1                        	slsget.a
+F SLSORT.A;1                        	slsort.a
+F SLSPLICE.A;1                      	slsplice.a
+F SLSPREPE.A;1                      	slsprepend.a
+F SLSPRINT.A;1                      	slsprint.a
+F SLSRM.A;1                         	slsrm.a
+F SLSSORT.A;1                       	slssort.a

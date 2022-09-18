@@ -1,0 +1,11 @@
+D BITBLT                            	bitblt
+F BUGS.;1                           	BUGS
+D DOC                               	doc
+D LIBAED                            	libaed
+D LIBAPA16                          	libapa16
+D LIBAPA8                           	libapa8
+D LIBAPA8C                          	libapa8c
+D LIBPQD                            	libpqd
+D LIBSRC                            	libsrc
+F MAKEFILE.;1                       	Makefile
+F README.;1                         	README

@@ -1,0 +1,15 @@
+F DEFS.H;1                          	defs.h
+F KDB_ACCE.C;1                      	kdb_access.c
+F KDB_COMM.C;1                      	kdb_command.c
+F KDB_CTYP.C;1                      	kdb_ctype.c
+F KDB_EXPR.C;1                      	kdb_expr.c
+F KDB_FORM.C;1                      	kdb_format.c
+F KDB_INPU.C;1                      	kdb_input.c
+F KDB_MESS.C;1                      	kdb_message.c
+F KDB_OUTP.C;1                      	kdb_output.c
+F KDB_PCS.C;1                       	kdb_pcs.c
+F KDB_PRIN.C;1                      	kdb_print.c
+F KDB_RUNP.C;1                      	kdb_runpcs.c
+F KDB_SYM.C;1                       	kdb_sym.c
+F KDB_TRAP.C;1                      	kdb_trap.c
+F REDEF.H;1                         	redef.h

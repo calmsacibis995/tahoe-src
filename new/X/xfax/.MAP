@@ -1,0 +1,6 @@
+F BITS.000;1                        	bits.asm.vax
+F BITS.ASM;1                        	bits.asm.sun
+F BITS.SPC;1                        	bits.spc
+F XFAX.CLU;1                        	xfax.clu
+F XFAX.XFI;1                        	xfax.xfile
+F XFAX.XLO;1                        	xfax.xload

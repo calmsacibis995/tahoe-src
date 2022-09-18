@@ -1,0 +1,9 @@
+D DEFS                              	defs
+F FORMAT.DOC;1                      	format.doc
+F GARC.C;1                          	garc.c
+F GCMD.C;1                          	gcmd.c
+F GEDIT.C;1                         	gedit.c
+F GEDIT.DOC;1                       	gedit.doc
+F GEDIT.H;1                         	gedit.h
+F GX.C;1                            	gx.c
+F MAKEFILE.;1                       	Makefile

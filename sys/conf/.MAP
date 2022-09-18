@@ -1,0 +1,24 @@
+F ANSEL.;1                          	ANSEL
+F CALDER.;1                         	CALDER
+F DEFINES.;1                        	defines
+F DEVICES.TAH;1                     	devices.tahoe
+F DEVICES.VAX;1                     	devices.vax
+F FILES.;1                          	files
+F FILES.TAH;1                       	files.tahoe
+F FILES.VAX;1                       	files.vax
+L GENERIC.;1                        	GENERIC	GENERIC.hcx9
+F GENERIC.ALL;1                     	GENERIC.allvax
+F GENERIC.HCX;1                     	GENERIC.hcx9
+F GENERIC.TAH;1                     	GENERIC.tahoe
+F GENERIC.VAX;1                     	GENERIC.vax
+F GENERIC1.HCX;1                    	GENERIC1.hcx9
+F KDB.;1                            	KDB
+L LINT.;1                           	LINT	LINT.tahoe
+F LINT.TAH;1                        	LINT.tahoe
+F LINT.VAX;1                        	LINT.vax
+F MAKEFILE.TAH;1                    	Makefile.tahoe
+F MAKEFILE.VAX;1                    	Makefile.vax
+F MICROVAX.;1                       	MICROVAXII
+F NEWVERS.SH;1                      	newvers.sh
+F OKEEFFE.;1                        	OKEEFFE
+F PARAM.C;1                         	param.c

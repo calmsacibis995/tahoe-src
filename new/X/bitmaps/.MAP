@@ -1,0 +1,14 @@
+F 1X1.BIT;1                         	1x1.bitmap
+F 2X2.BIT;1                         	2x2.bitmap
+F BOXES.BIT;1                       	boxes.bitmap
+F CROSS_WE.BIT;1                    	cross_weave.bitmap
+F DIMPLE1.BIT;1                     	dimple1.bitmap
+F DIMPLE3.BIT;1                     	dimple3.bitmap
+F DOT.BIT;1                         	dot.bitmap
+F GRAY1.BIT;1                       	gray1.bitmap
+F GRAY3.BIT;1                       	gray3.bitmap
+F ICON.BIT;1                        	icon.bitmap
+F ROOT_WEA.BIT;1                    	root_weave.bitmap
+F SCALES.BIT;1                      	scales.bitmap
+F TARGET.BIT;1                      	target.bitmap
+F WIDE_WEA.BIT;1                    	wide_weave.bitmap

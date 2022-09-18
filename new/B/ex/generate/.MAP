@@ -1,0 +1,8 @@
+F 'ANALYZE.;1                       	'ANALYZE
+F 'FILL.;1                          	'FILL
+F 'GENERAT.;1                       	'GENERATE
+F 'START.;1                         	'START
+F .B_P;1                            	.b_perm
+F BINT.O;1                          	bint.O
+F BSMALL.O;1                        	bsmall.O
+F IN.;1                             	In

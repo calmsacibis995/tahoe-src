@@ -1,0 +1,4 @@
+F MAKEFILE.;1                       	Makefile
+F TEXTLEX.L;1                       	textlex.l
+F TEXTTOIP.C;1                      	texttoip.c
+F TEXTTOKE.H;1                      	texttoken.h

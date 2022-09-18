@@ -1,0 +1,9 @@
+F EXEC.C;1                          	exec.c
+F EXECCMD.C;1                       	execcmd.c
+F MAKEFILE.;1                       	Makefile
+F MISC.C;1                          	misc.c
+F PDLIST.C;1                        	pdlist.c
+F PDLIST.H;1                        	pdlist.h
+F PDSET.C;1                         	pdset.c
+F PDSET.H;1                         	pdset.h
+F PEXEC.C;1                         	Pexec.c

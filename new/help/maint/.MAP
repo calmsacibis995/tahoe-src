@@ -1,0 +1,15 @@
+F CONFIG.;1                         	config
+F DIST_CAT.;1                       	dist_cat
+F DIST_SRC.;1                       	dist_src
+F DO.DEF;1                          	do.default
+F DO.LOG;1                          	do.log
+F DO.NEW;1                          	do.new
+F DOC.GEN;1                         	doc.gen
+F DOC.IBM;1                         	doc.ibm
+F DOC.MIC;1                         	doc.mic
+F DOC.UNX;1                         	doc.unx
+F INPROGRE.;1                       	Inprogress
+F MK.000;1                          	mk.index_man
+F MK.001;1                          	mk.index_help
+F MK.IND;1                          	mk.index_doc
+F NEW.;1                            	new

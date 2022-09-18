@@ -1,0 +1,15 @@
+F CHECKNEW.1;1                      	checknews.1
+F EXPIRE.8;1                        	expire.8
+F GETDATE.3;1                       	getdate.3
+F INEWS.8;1                         	inews.8
+F MAKEFILE.;1                       	Makefile
+F NEWS.5;1                          	news.5
+F NEWSRC.5;1                        	newsrc.5
+F PATCHLEV.MAN;1                    	patchlevel.man
+F POSTNEWS.1;1                      	postnews.1
+F READNEWS.1;1                      	readnews.1
+F RECNEWS.8;1                       	recnews.8
+F SENDBATC.8;1                      	sendbatch.8
+F SENDNEWS.8;1                      	sendnews.8
+F UUREC.8;1                         	uurec.8
+F VNEWS.1;1                         	vnews.1

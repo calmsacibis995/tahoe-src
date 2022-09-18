@@ -1,0 +1,6 @@
+F HYR_LEX.L;1                       	hyr_lex.l
+F HYR_MAIN.C;1                      	hyr_main.c
+F HYR_SYM.H;1                       	hyr_sym.h
+F MAKEFILE.;1                       	Makefile
+F README.OLD;1                      	README.OLD
+F TEST.INP;1                        	test.input

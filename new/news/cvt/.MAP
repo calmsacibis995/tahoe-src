@@ -1,0 +1,5 @@
+F CVT.ACT;1                         	cvt.active.sh
+F CVT.CLE;1                         	cvt.clean.sh
+F CVT.LIN;1                         	cvt.links.sh
+F CVT.NAM;1                         	cvt.names.sh
+F CVTACTIV.C;1                      	cvtactive.c

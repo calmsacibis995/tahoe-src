@@ -1,0 +1,13 @@
+F MAKEFILE.;1                       	Makefile
+F XLIB.0;1                          	Xlib.0
+L XLIB.3;1                          	Xlib.3	Xlib.3x
+F XLIB.3X;1                         	Xlib.3x
+F XMENU.0;1                         	XMenu.0
+L XMENU.3;1                         	XMenu.3	XMenu.3x
+F XMENU.3X;1                        	XMenu.3x
+F XTEXT.0;1                         	xtext.0
+L XTEXT.3;1                         	xtext.3	xtext.3x
+F XTEXT.3X;1                        	xtext.3x
+F XTTY.0;1                          	xtty.0
+L XTTY.3;1                          	xtty.3	xtty.3x
+F XTTY.3X;1                         	xtty.3x

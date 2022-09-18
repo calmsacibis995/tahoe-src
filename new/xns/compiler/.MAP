@@ -1,0 +1,16 @@
+F CHECKTYP.C;1                      	checktype.c
+F CODE.C;1                          	code.c
+F COMPILER.H;1                      	compiler.h
+F CONSTANT.000;1                    	constants.c
+F CONSTANT.C;1                      	constantcode.c
+F COURIER.Y;1                       	courier.y
+F LEX.YY;1                          	lex.yy.c.bw
+F MAIN.C;1                          	main.c
+F MAKEFILE.;1                       	Makefile
+F MISC.C;1                          	misc.c
+F PROCEDUR.C;1                      	procedures.c
+F README.;1                         	README
+F SCANNER.L;1                       	scanner.l
+F SYMBOLS.C;1                       	symbols.c
+F TYPECODE.C;1                      	typecode.c
+F TYPES.C;1                         	types.c

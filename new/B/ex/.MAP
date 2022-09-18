@@ -1,0 +1,8 @@
+F DOEXAMPL.;1                       	DoExamples
+D GENERATE                          	generate
+D HANOI                             	hanoi
+F MAKEFILE.;1                       	Makefile
+D PI                                	pi
+F README.;1                         	README
+D TRY                               	try
+D XREF                              	xref

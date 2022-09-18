@@ -1,0 +1,13 @@
+F DBID.C;1                          	dbid.c
+F DBID.H;1                          	dbid.h
+F DSH.C;1                           	dsh.c
+F DSH.H;1                           	dsh.h
+F DSHRC.;1                          	dshrc
+F ERROR.C;1                         	error.c
+F GETBIDS.C;1                       	getbids.c
+F GETLOADA.C;1                      	getloadave.c
+F GETPATH.C;1                       	getpath.c
+F GETRC.C;1                         	getrc.c
+F GETWD.C;1                         	getwd.c
+F IPC.C;1                           	ipc.c
+F MAKEFILE.;1                       	Makefile

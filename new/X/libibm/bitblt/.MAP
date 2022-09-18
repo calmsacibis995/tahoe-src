@@ -1,0 +1,11 @@
+F BITBLT.C;1                        	bitblt.c
+F BITBLT_A.000;1                    	bitblt_aed.h
+F BITBLT_A.001;1                    	bitblt_aed.c
+F BITBLT_A.C;1                      	bitblt_apa16.c
+F BITBLT_A.H;1                      	bitblt_apa16.h
+F BITBLT_C.C;1                      	bitblt_cur.c
+F BITBLT_E.H;1                      	bitblt_ext.h
+F BITBLT_I.H;1                      	bitblt_int.h
+F BITBLT_S.C;1                      	bitblt_subr.c
+F MAKEFILE.;1                       	Makefile
+F README.;1                         	README

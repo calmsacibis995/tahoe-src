@@ -1,0 +1,10 @@
+F HP.C;1                            	hp.c
+F HPREG.H;1                         	hpreg.h
+F HT.C;1                            	ht.c
+F HTREG.H;1                         	htreg.h
+F MBA.C;1                           	mba.c
+F MBAREG.H;1                        	mbareg.h
+F MBAVAR.H;1                        	mbavar.h
+F MT.C;1                            	mt.c
+F MTREG.H;1                         	mtreg.h
+L TAGS.;1                           	tags	../vax/tags

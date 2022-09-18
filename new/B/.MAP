@@ -1,0 +1,13 @@
+D BIN                               	bin
+F CH_ALL.;1                         	ch_all
+F CH_CLEAN.;1                       	ch_clean
+F CH_INSTA.;1                       	ch_install
+D DOC                               	doc
+D EX                                	ex
+D LIB                               	lib
+F MAKEFILE.GEN;1                    	Makefile.gen
+D MAN                               	man
+F README.;1                         	README
+F SETUP.;1                          	Setup
+D SRC                               	src
+F STRUCTUR.;1                       	Structure

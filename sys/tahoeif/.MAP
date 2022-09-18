@@ -1,0 +1,7 @@
+F IF_ACE.C;1                        	if_ace.c
+F IF_ACERE.H;1                      	if_acereg.h
+F IF_ENP.C;1                        	if_enp.c
+F IF_ENPRE.H;1                      	if_enpreg.h
+F IF_EX.C;1                         	if_ex.c
+F IF_EXREG.H;1                      	if_exreg.h
+L TAGS.;1                           	tags	../tahoe/tags

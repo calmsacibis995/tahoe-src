@@ -1,0 +1,10 @@
+F ANSWER.THI;1                      	Answer.this
+D DOC                               	doc
+F HINTS.;1                          	HINTS
+F MAKEFILE.;1                       	Makefile
+D MAN                               	man
+F MANIFEST.;1                       	MANIFEST
+F README.;1                         	README
+D SAMPLES                           	Samples
+D SRC                               	src
+D UTILITY                           	utility

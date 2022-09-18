@@ -1,0 +1,7 @@
+F CLIENTLI.C;1                      	clientlib.c
+F CONF.H;1                          	conf.h
+F MAKEFILE.;1                       	Makefile
+F README.;1                         	README
+F RESPONSE.H;1                      	response_codes.h
+F RFC977.H;1                        	rfc977.h
+F VERSION.C;1                       	version.c

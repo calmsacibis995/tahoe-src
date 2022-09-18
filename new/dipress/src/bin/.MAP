@@ -1,0 +1,16 @@
+D CHARSET                           	charset
+D DIPRESS                           	dipress
+D IPF                               	ipf
+D IPFE                              	ipfe
+D IPMETRIC                          	ipmetrics
+D IPTOTEXT                          	iptotext
+F IPTROFF.SKE;1                     	iptroff.skel
+D MAHA                              	maha
+F MAKEFILE.;1                       	Makefile
+D MAKEXTDE                          	makextdev
+D MP2RES                            	mp2res
+D PLOT2IP                           	plot2ip
+F QIP.;1                            	qip
+D RESTOTEX                          	restotext
+D STACKRES                          	stackres
+D TEXTTOIP                          	texttoip

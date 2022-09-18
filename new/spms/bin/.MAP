@@ -1,0 +1,4 @@
+F PCLEAN.;1                         	pclean
+F PDEPEND.;1                        	pdepend
+F PINSTALL.;1                       	pinstall
+F PMAKE.;1                          	pmake

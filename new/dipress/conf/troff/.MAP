@@ -1,0 +1,14 @@
+F 8044.DES;1                        	8044.desc
+F CIRCLEDN.MAP;1                    	circledNumbers.map
+F CLASSIC.DES;1                     	classic.desc
+F MAKEFILE.;1                       	Makefile
+F MODERN.DES;1                      	modern.desc
+F ROMANNUM.MAP;1                    	romanNumerials.map
+F TERMINAL.DES;1                    	terminal.desc
+F TITAN.DES;1                       	titan.desc
+F TROFFCLA.DES;1                    	troffClassic.desc
+F TROFFCLA.MAP;1                    	troffClassic.map
+F TROFFMAT.000;1                    	troffMathExtra.map
+F TROFFMAT.MAP;1                    	troffMath.map
+F XC1-1-1.MAP;1                     	xc1-1-1.map
+F XEROX-EX.MAP;1                    	xerox-eXtra.map

@@ -1,0 +1,9 @@
+F ERROR.C;1                         	error.c
+F EXECUTE.C;1                       	execute.c
+F MAKEFILE.;1                       	Makefile
+F PARSE.C;1                         	parse.c
+F README.;1                         	README
+F STACK.C;1                         	stack.c
+F STACK.H;1                         	stack.h
+F STACKRES.C;1                      	stackres.c
+D TEST                              	Test

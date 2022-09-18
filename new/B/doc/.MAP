@@ -1,0 +1,14 @@
+F .BED;1                            	.Bed_sugg
+F .B_P;1                            	.b_perm
+F =I.;1                             	=i
+F BFONT.DEF;1                       	bfont.def
+F BPROJECT.;1                       	Bproject
+F BUGREPOR.;1                       	BugReport
+F DESCR.MAC;1                       	Descr.macs
+F DESCRIPT.;1                       	Description1
+F DESCRIPT.000;1                    	Description2
+F MAKEFILE.;1                       	Makefile
+F ORDERFOR.;1                       	OrderForm
+F QUICKREF.;1                       	QuickRef
+F README.;1                         	README
+F USERSGUI.MS;1                     	UsersGuide.ms

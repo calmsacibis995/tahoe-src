@@ -1,0 +1,7 @@
+F BASICAUT.CR;1                     	BasicAuthentication2.cr
+F CREDS.C;1                         	creds.c
+F GETXNSPA.C;1                      	getXNSpass.c
+F HASHPASS.C;1                      	hashpass.c
+F MAKEFILE.;1                       	Makefile
+F MAKEFILE.000;1                    	Makefile,v
+F PASSTEST.C;1                      	passtest.c

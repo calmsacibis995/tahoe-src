@@ -1,0 +1,9 @@
+F "ALPHABE.;1                       	"alphabetic
+F "WORDS.;1                         	"words
+F 'OUTPUT.;1                        	'OUTPUT
+F 'SAVE.;1                          	'SAVE
+F 'XREF.;1                          	'XREF
+F .B_P;1                            	.b_perm
+F BINT.O;1                          	bint.O
+F BSMALL.O;1                        	bsmall.O
+F IN.;1                             	In

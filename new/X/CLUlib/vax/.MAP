@@ -1,0 +1,11 @@
+F INTERNAL.EQU;1                    	internal.equ
+F X_BITMAP.CLU;1                    	x_bitmap.clu
+F X_BUF.ASM;1                       	x_buf.asm
+F X_BUF.SPC;1                       	x_buf.spc
+F X_CURSOR.CLU;1                    	x_cursor.clu
+F X_DISPLA.CLU;1                    	x_display.clu
+F X_FONT.CLU;1                      	x_font.clu
+F X_MISC.CLU;1                      	x_misc.clu
+F X_PIXMAP.CLU;1                    	x_pixmap.clu
+F X_VLIST.ASM;1                     	x_vlist.asm
+F X_WINDOW.CLU;1                    	x_window.clu

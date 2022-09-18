@@ -1,0 +1,6 @@
+D DOC                               	doc
+D LIB                               	lib
+F MAKEFILE.;1                       	Makefile
+D MAN                               	man
+F README.;1                         	README
+D SRC                               	src
